@@ -1,0 +1,12 @@
+CREDITS:
+
+Extracts used of example code retrieved from the following sources:
+
+1) Online sources:
+
+- Embedded Tomcat server and Docker examples:
+
+https://www.captechconsulting.com/blogs/create-an-embedded-server-app-with-tomcat-8
+https://medium.com/bb-tutorials-and-thoughts/how-to-dockerize-java-rest-api-3d55ad36b914
+https://medium.com/holisticon-consultants/dont-build-fat-jars-for-docker-applications-6252a5571248
+https://medium.com/bb-tutorials-and-thoughts/how-to-dockerize-java-rest-api-3d55ad36b914
