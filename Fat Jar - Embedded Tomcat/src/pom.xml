@@ -32,7 +32,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
-            <version>5.2.8.RELEASE</version>
+            <version>5.3.33.RELEASE</version>
             <exclusions>
                 <exclusion>
                     <artifactId>commons-logging</artifactId>
@@ -43,7 +43,7 @@
 	<dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-web</artifactId>
-    <version>5.2.8.RELEASE</version>
+    <version>5.3.33.RELEASE</version>
   </dependency>
     <dependency>
            <groupId>org.apache.tomcat.embed</groupId>
