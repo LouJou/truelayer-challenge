@@ -26,13 +26,13 @@
     <dependency>
     <groupId>commons-httpclient</groupId>
     <artifactId>commons-httpclient</artifactId>
-    <version>3.1</version>
+    <version>4.0</version>
 	</dependency>
 
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
-            <version>5.3.33.RELEASE</version>
+            <version>6.0.0</version>
             <exclusions>
                 <exclusion>
                     <artifactId>commons-logging</artifactId>
@@ -43,17 +43,17 @@
 	<dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-web</artifactId>
-    <version>5.3.33.RELEASE</version>
+    <version>6.0.0</version>
   </dependency>
     <dependency>
            <groupId>org.apache.tomcat.embed</groupId>
            <artifactId>tomcat-embed-core</artifactId>
-           <version>8.5.96</version>
+           <version>8.5.99</version>
     </dependency>
 	<dependency>
        <groupId>org.apache.tomcat.embed</groupId>
        <artifactId>tomcat-embed-jasper</artifactId>
-       <version>8.5.96</version>
+       <version>8.5.99</version>
     </dependency>
 	<dependency>
 	    <groupId>org.json</groupId>
